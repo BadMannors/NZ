@@ -1,1 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("NZ1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 960px;
+    width: 100%;
+   
+}
+img {
+    
+    border-radius: 100px;
+    outline-offset: 3px;
+    outline: darkgreen 5px solid;
+    border: double yellow 3px;
+    padding-left: 0px;
+    width: 200px;
+    height: 283px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+.NZZ {
+    background-size: 100% 100%;
+    padding-left: 0px;
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+    border: double yellow 3px;
+    margin-top: 100px;
+   
+    
+   
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(145, 13, 101);
+}
+h2 {
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+* {
+    color: rgb(145, 13, 101);
+
+}
+p {
+    width: 50%;
+    background-color: aqua;
+    border: double red 5px;
+    font-size: 15px;
+    color: purple;
+}
+h3 {
+    float: right;
+    margin-left: 100px;
+    color: yellow;
+}
 
