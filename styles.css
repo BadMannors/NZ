@@ -1,67 +1,70 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-body {
-    background-image: url("https://i.im.ge/2024/03/31/W0HbBD.20240112-131926.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 960px;
-    width: 100%;
-   
-}
-img {
-    
-    border-radius: 100px;
-    outline-offset: 3px;
-    outline: darkgreen 5px solid;
-    border: double yellow 3px;
-    padding-left: 0px;
-    width: 200px;
-    height: 283px;
-    margin-left: 50px;
-    margin-bottom: 50px;
-    
-    
-}
-.NZZ {
-    background-size: 100% 100%;
-    padding-left: 0px;
-    width: 300px;
-    height: 200px;
-    float: left;
-    margin-right: 30px;
-    border: double yellow 3px;
-    margin-top: 100px;
-   
-    
-   
-}
 h1 {
-    text-align: center;
-    font-size: 80px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(145, 13, 101);
+  font-family: Comic Sans MS;
+  text-align: center;
+  color: Red;
+  background-color: darkblue;
+  border: solid 3px black;
+  opacity: 1;
 }
 h2 {
-    font-size: 40px;
-    text-decoration: underline;
-    text-align: center;
-}
-* {
-    color: rgb(145, 13, 101);
-
+  color: Red;
+  background-color: darkblue;
+  border: solid 3px black;
+  border-radius: 20%;
+  text-align: center;
+  font-weight: bold;
 }
 p {
-    width: 50%;
-    background-color: aqua;
-    border: double red 5px;
-    font-size: 15px;
-    color: purple;
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 15px;
+  color: yellow;
+}
+img {
+  border: red;
+  width: 300px;
+  height: 400px;
+  border-block: center;
+  margin-block: center;
+
+}
+body {
+  background-image: url("https://i.im.ge/2024/03/18/RyLjmz.Screenshot-20240318-082352-Gallery.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+figcaption {
+  color: yellow;
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-size: 20;
+  font-family: Sans-Serif;
+}
+.learn-more {
+  color: blue;
+  background-color: yellow;
+}
+a {
+  color: red;
+  text-align: center;
 }
 h3 {
-    float: right;
-    margin-left: 100px;
-    color: yellow;
+  border: solid 3px black;
+  color: red;
+  background: darkblue;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
 }
-
+h4 {
+  color: red;
+  background-color: darkblue;
+  border: solid 3px black;
+  border-radius: 20%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.image {
+  border: red;
+}
